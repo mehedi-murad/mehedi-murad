@@ -4,6 +4,13 @@
 
 <!-- ### Hi there 👋 -->
 
+
+
+# Current Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mehedi-murad&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
+
+
 ## The Things That I Know
 
 - 🔭 I’m currently working on React js
@@ -20,6 +27,12 @@
     <img src="https://skillicons.dev/icons?i=css,figma,firebase,git,github,html,js,materialui,react,tailwind,vercel,vscode,mongodb,express" />
   </a>
 </p>
+
+
+
+
+
+
 
 
 <!--
