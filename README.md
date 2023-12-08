@@ -8,7 +8,9 @@
 
 # Current Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mehedi-murad&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mehedi-murad&theme=shades-of-purple&hide_border=true" alt="GitHub Streak" /></a>
+</p>
 
 
 ## The Things That I Know
@@ -27,6 +29,7 @@
     <img src="https://skillicons.dev/icons?i=css,figma,firebase,git,github,html,js,materialui,react,tailwind,vercel,vscode,mongodb,express" />
   </a>
 </p>
+
 
 
 
