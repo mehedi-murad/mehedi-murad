@@ -32,9 +32,9 @@
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedi-murad&theme=moonlight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedi-murad&theme=moonlight) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehedi-murad&theme=moonlight)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehedi-murad&theme=moonlight)
+
 </div>
 
 
