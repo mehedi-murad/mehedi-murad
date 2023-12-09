@@ -5,9 +5,9 @@
 <!-- ### Hi there 👋 -->
 
 ## About my Profile
-
+<div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedi-murad&theme=moonlight)
-
+</div>
 
 # Current Stats
 
